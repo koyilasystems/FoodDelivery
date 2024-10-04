@@ -34,7 +34,7 @@ const Footer = () => {
             </div>
             <hr/>
             <p className="footer-copyright">
-              Copyright 2024 © KOYILA.com - All Right Reserved.
+              Copyright 2024 © koyilasystems.com - All Right Reserved.
             </p>
     </div>
   )
